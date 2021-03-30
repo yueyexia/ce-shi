@@ -1,3 +1,9 @@
 .box{
     color: red;
 }
+.box2{
+    color: aqua;
+}
+.box2:hover {
+    color: aquamarine;
+}
